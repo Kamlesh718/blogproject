@@ -13,9 +13,9 @@ User management.
 Category management .
 
 **Technologies Used**
-HTML
-CSS
-JavaScript
-PHP
-XAMPP
-PHPMyAdmin MySQL
+- HTML
+- CSS
+- JavaScript
+- PHP
+- XAMPP
+- PHPMyAdmin MySQL
